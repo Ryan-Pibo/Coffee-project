@@ -1,12 +1,14 @@
 body{
-    background: #C0B283;
+    background: #f4f4f4;
 
 }
 table {
     border-collapse: collapse;
     margin: 15px 0;
 }
-
+hr{
+    margin: 0;
+}
 td, th {
     border: 1px solid black;
     padding: 5px 10px;
@@ -24,8 +26,11 @@ p{
 h1{
     text-align: center;
 }
-h2 ,form{
+form{
     color: #f4f4f4;
+}
+h2{
+    color: #247BA0;
 }
 
 .coffee {
@@ -43,18 +48,18 @@ h2 ,form{
 
 }
 .nav-link{
-    color: #373737;
+    color: #247BA0;
 }
 .btn-warning{
     color: white;
-    background-color: #373737;
-    border-color: #C0B283;
+    background-color: #247BA0;
+    border-color: #70C1B3;
 }
 .btn-warning:hover {
-    background-color: #C0B283;
+    background-color: #70C1B3;
 }
 .nav-link:hover {
-    color: #C0B283;
+    color: #70C1B3;
 }
 
 .cup {
@@ -310,7 +315,7 @@ h2 ,form{
 /*ARROW*/
 #arrowAnim {
     position: absolute;
-    top: 136px;
+    top: 126px;
     left :176px;
     width: 40vw;
     height: 40vh;

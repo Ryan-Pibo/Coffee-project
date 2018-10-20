@@ -107,5 +107,5 @@ function pushNewArray() {
         var combinedCoffee = '<div class="coffee col-6 float-left">'+newCoffee.name + ' ' +'<p>'+ newCoffee.roast+'</p>'+'</div>';
         tbody.innerHTML += combinedCoffee;
     }
-    //Trying to make the key enter search
+    //T
 
