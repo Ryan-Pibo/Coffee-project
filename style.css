@@ -30,7 +30,7 @@ form{
     color: #f4f4f4;
 }
 h2{
-    color: #247BA0;
+    color: #7A4419;
 }
 
 .coffee {
@@ -47,19 +47,27 @@ h2{
 
 
 }
+small{
+    position: relative;
+    left: 35em;
+    top: -5px;
+}
+footer{
+    position: absolute;
+}
 .nav-link{
-    color: #247BA0;
+    color: #C8967D;
 }
 .btn-warning{
-    color: white;
-    background-color: #247BA0;
-    border-color: #70C1B3;
+    color: #204E4A;
+    background-color: #E8D2AE;
+    border-color: #796465;
 }
 .btn-warning:hover {
-    background-color: #70C1B3;
+    background-color: #796465;
 }
 .nav-link:hover {
-    color: #70C1B3;
+    color: #204E4A;
 }
 
 .cup {
